@@ -1,0 +1,64 @@
+  @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+
+.stockView {
+  /*width: 98%;
+  border: 1px solid #E1DDDC;
+  margin: 10px auto;
+  height: auto;
+  box-shadow: 0px 24px 50px -30px rgba(0,0,0,0.75);*/
+}
+
+
+
+#line-chart {
+  display: inline-block;
+  width: 98%;
+  height: auto;
+  padding: 0 2px;
+  text-align: left;
+  margin: 0 auto;
+}
+
+#newsFeed {
+  width: 80%;
+  display: inline-block;
+  height: 350px;
+  vertical-align: top;
+  font-family: 'Trebuchet MS';
+  font-size: 14px;
+  text-align: left;
+  /*border: 1px solid;*/
+  overflow: hidden;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  background-color: white;
+
+}
+
+#newsFeed a {
+  text-decoration: none;
+
+}
+
+
+#doughnutChart {
+  margin-top: 50px;
+  width: 90%;
+  height: 50%;
+  display: inline-block;
+  border-bottom: 1px solid;
+  padding-bottom: 50px;
+}
+
+.title {
+  font-family: 'Trebuchet MS';
+  font-size: 26px;
+  background-color: white;
+  width: 60%;
+  margin: 10px auto;
+  text-align: center;
+  color: #4a4a4a;
+  box-shadow: 0px 24px 50px -30px rgba(0,0,0,0.25);
+
+}

@@ -1,0 +1,30 @@
+.newsFeed {
+  width: 100%;
+  display: inline-block;
+  overflow: scroll;
+  height: 400px;
+  vertical-align: top;
+  font-family: 'Trebuchet MS';
+  font-size: 14px;
+  text-align: center;
+  /*border: 1px solid;*/
+
+  background-color: white;
+
+}
+
+.newsFeedBorder {
+  text-align: center;
+  /*border-bottom: 1px solid #545454;*/
+  border-top: 1px solid #545454;
+  width: 100%;
+  margin-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #757575;
+  margin-top: -16px;
+}
+
+.newsFeedBorder:hover {
+  background-color: #EFEFEF;
+}

@@ -1,0 +1,79 @@
+.signup-form {
+  position: absolute;
+  margin: 15% 10px 10px 10px;
+  top: 70px;
+  left: 35%;
+  height: 70%;
+  width: 30%;
+  color: black ;
+  width: 30%;
+  font-family: 'Trebuchet MS';
+  font-size: 12px;
+
+}
+
+
+
+
+.signup-field {
+  display: block;
+  width: 90%;
+  font-size: 18px;
+  color :white;
+  appearance: none;
+  box-shadow: none;
+  border: solid 1px #efeded;
+  transition: box-shadow 0.3s, border 0.3s;
+  border-radius: 0.25rem;
+  padding: 16px;
+  padding: 1rem;
+  background-color: #363b41;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  padding-left: 20px;
+  padding-left: 1.25rem;
+  padding-right: 20px;
+  padding-right: 1.25rem;
+  font-family: 'Trebuchet MS';
+
+}
+
+/*Button Style*/
+.signup-btn {
+  font-family: 'Trebuchet MS';
+  background-color: #ea4c88;
+  cursor: pointer;
+  padding: 12px;
+  display: inline-block;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-size: 18px;
+  outline: none;
+  position: relative;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  width: 100%;
+  color: #fff;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+
+
+
+
+#username {
+  margin-top: 0px;
+}
+#re-password {
+  margin-bottom: -10px;
+}
+
+#email,#password {
+  margin-top: 20px;
+}
+#password{
+    margin-bottom: 20px;
+}

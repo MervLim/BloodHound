@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+  background-color: #EFEFEF;
+}
+#navBar {
+  background-image: url('../../Images/pexels-photo-241544.jpeg');
+  background-position: center;
+  background-attachment: fixed;
+  height: 230px;
+  color: white;
+  font-family: 'Trebuchet MS';
+  font-size: 20px;
+  display: table;
+  width: 100%;
+
+}
+
+#navBar p {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 36px;
+}
+
+
+#header {
+  background-color: #000000;
+  height: 230px;
+  color: white;
+  font-family: 'Trebuchet MS';
+  font-size: 20px;
+  display: table;
+  width: 100%;
+
+}
+
+#header p {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 36px;
+}
+
+
+.dashboard {
+  /*width: 90%;
+  border: 1px solid #E1DDDC;
+  margin: 10px auto;
+  height: 300px;
+  box-shadow: 0px 24px 50px -30px rgba(0,0,0,0.75);*/
+
+}
+
+.logOut {
+  float: right;
+  margin-top: 5px;
+  font-family: 'Trebuchet MS';
+  width: 60px;
+}

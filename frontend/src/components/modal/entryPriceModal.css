@@ -1,0 +1,14 @@
+
+.Modal{
+  border: 1px solid;
+  width: 50%;
+  height: 200px;
+  margin: 150px auto;
+  background-color: #EFEFEF ;
+  text-align: center;
+}
+.input {
+  width:200px;
+  height: 30px;
+  margin: 50px 20px;
+}
